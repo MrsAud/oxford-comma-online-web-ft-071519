@@ -13,5 +13,3 @@ def oxford_comma(array)
       puts "#{list}, and #{array[-1]}"
     end
 end
-
-binding.pry
