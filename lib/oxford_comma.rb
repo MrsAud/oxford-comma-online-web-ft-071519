@@ -12,5 +12,6 @@ def oxford_comma(array)
      # list = array[0...-1].join(", ")
       #puts "#{list}, and #{array[-1]}"
     end
-  binding.pry
 end
+
+binding.pry
