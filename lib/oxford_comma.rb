@@ -2,15 +2,15 @@ require 'pry'
 
 def oxford_comma(array)
   new_array = array.join(", ")
-  #case new_array.length
-  #  when 1
+  case new_array.length
+    when 1
       
-  #  when 2
+    when 2
       
-  #  when 3
+    when 3
       
-  #  when >= 4
+    when >= 4
       
-  #  end
+    end
   binding.pry
 end
